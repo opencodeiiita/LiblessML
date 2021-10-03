@@ -37,6 +37,7 @@ You will be provided with three files in most of the tasks
       <li>pSN0W</li>
       <li>parth1007</li>
       <li>himanshu370</li>
+      <li>utkarsh1210-tech</li>
     </ol>
     can assign the issue to anyone. 
     Anyone else who assigns the issue to other person will be banned from the competition.
