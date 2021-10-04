@@ -1,6 +1,6 @@
 # LiblessML
 ## Problem Statement
-Hello contributors, meet Vishesh, an Under-Graduate student at IIITA. During technical round of the intern session, Vishesh is presented with several tasks that require Python and Machine Learning expertise. Vishesh who did his education in online mode is facing difficulties in solving these issues. Help him in clearing this round and moving a step further in the selection process.
+Hello contributors, meet Vishesh, an Under-Graduate student at IIITA. During technical round of the intern session, Vishesh is presented with several tasks that require Python and Machine Learning expertise. Vishesh who did his education in online mode is facing difficulties in solving these issues. Help him in clearing this round and moving a step further in selection process.
 ## Introduction
 Preprocessing data is on of the most important task of a ML engineer and it takes about 50-60% of the time while developing any project. Data is collected by scraping the web or by any other means and it is always possible that the dataset is not in the form you will like it to be. The dataset provided to you faces the same problem.
 Preprocessing data using state of art machine learning frameworks reduces the codes to few lines. But to understand the concepts better you need to build things from scratch so here in this repo you are only allowed to use numpy and pandas to complete the tasks.
