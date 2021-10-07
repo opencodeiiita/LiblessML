@@ -1,0 +1,13 @@
+# Paste your github username and Google colab link in the format given
+# make sure your colab link is private.
+# make sure your forked repo is updated with original repo to avoid merge conflict.
+
+{
+    githubUsername = 'parth1007'
+    colabLink = 'https://colab.research.google.com/drive/1p8l6OSaUWCINj3Q7sNafUhpXpA6PVSD6'
+},
+
+{
+    githubUsername = 'pSN0W'
+    colabLink = 'https://colab.research.google.com/drive/1p8l6OSaUWCINj3Q7sNafUhpXpA6PVSD6'
+},
