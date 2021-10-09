@@ -13,5 +13,5 @@
 },
 {
     githubUsername = 'souvenger'
-    colablink='https://colab.research.google.com/#scrollTo=5fCEDCU_qrC0'
+    colablink='https://colab.research.google.com/drive/1AXWbqyWWH6zkYLk4VSqp05_kHodUFqlR?usp=sharing'
 },
