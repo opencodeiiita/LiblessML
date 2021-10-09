@@ -11,3 +11,7 @@
     githubUsername = 'pSN0W'
     colabLink = 'https://colab.research.google.com/drive/1p8l6OSaUWCINj3Q7sNafUhpXpA6PVSD6'
 },
+{
+    githubUsername = 'souvenger'
+    colablink='https://colab.research.google.com/#scrollTo=5fCEDCU_qrC0'
+},
