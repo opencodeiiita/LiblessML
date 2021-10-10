@@ -19,3 +19,8 @@
     githubUsername = 'batflarrow'
     colabLink = 'https://colab.research.google.com/drive/1JLQwfDMGwz0agqeBKHUH0nNtJhkwT4PP?usp=sharing'
 },
+{
+    githubUsername = 'Aneesh02'
+    colabLink = 'https://colab.research.google.com/drive/1h3IW75rO9801x2OxTPCTMNSEoGlweDRn?usp=sharing'
+},
+
