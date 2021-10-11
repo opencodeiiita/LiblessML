@@ -10,5 +10,5 @@ Task - 5
 },
 {
     githubUsername = 'souvenger'
-    colabLink = 'https://colab.research.google.com/drive/1PLsnHZyMyf61ixTcoLvGqXDGVJya45id?usp=sharing'
+    colabLink = 'https://colab.research.google.com/drive/1-W0rW5QfHVq6-GebgVrnNrIPcnsMGwMe?usp=sharing'
 },
