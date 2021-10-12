@@ -8,3 +8,7 @@ Task - 6
     githubUsername = 'parth1007'
     colabLink = 'https://colab.research.google.com/drive/1p8l6OSaUWCINj3Q7sNafUhpXpA6PVSD6'
 },
+{
+    githubUsername = 'AgrimVerma'
+    colabLink = 'https://colab.research.google.com/drive/19mi_MRf83hFsfnhsRBJAYgkIH8Pk4qwO?usp=sharing'
+},

@@ -1,0 +1,4 @@
+{
+    githubUsername = 'AgrimVerma'
+    colabLink = 'https://colab.research.google.com/drive/19mi_MRf83hFsfnhsRBJAYgkIH8Pk4qwO?usp=sharing'
+},
